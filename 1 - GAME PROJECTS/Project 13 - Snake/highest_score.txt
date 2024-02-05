@@ -1,0 +1,3 @@
+2024-01-24 10:15:21 Highest Score: 1
+2024-01-24 10:15:31 Highest Score: 2
+2024-01-24 11:29:40 Highest Score: 4

@@ -1,0 +1,7 @@
+On Monday, the temperature was 12 degrees and it was sunny.
+On Tuesday, the temperature was 14 degrees and it was rain.
+On Wednesday, the temperature was 15 degrees and it was rain.
+On Thursday, the temperature was 14 degrees and it was cloudy.
+On Friday, the temperature was 21 degrees and it was sunny.
+On Saturday, the temperature was 22 degrees and it was sunny.
+On Sunday, the temperature was 24 degrees and it was sunny.
